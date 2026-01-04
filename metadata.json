@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Nexus Dashboard",
+  "description": "A sophisticated, AI-enhanced admin dashboard featuring a sleek login experience and a multi-purpose data visualization interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
